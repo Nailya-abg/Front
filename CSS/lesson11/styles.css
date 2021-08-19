@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.container {
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+    
+    
+  }
+  .blue{
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+    background: rgb(146, 146, 204);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+   
+
+  }
+
+
+.main{
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+.yellow{
+    background: yellow;
+    font-size: 18px;
+}
+.container3{
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+    background: rgb(79, 80, 80);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+
+}
