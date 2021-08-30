@@ -138,44 +138,44 @@
 // alert("Произиедение"+"="+  (c * d) );
 
 // Урок 26
-function sum(a, b){
-  a = +prompt("Введите первое число");
-  b = +prompt("Введите второе число");
-  console.log(a+ b);
-}
-sum();
+// function sum(a, b){
+//   a = +prompt("Введите первое число");
+//   b = +prompt("Введите второе число");
+//   console.log(a+ b);
+// }
+// sum();
 
 
-function subtract(a, b){
-  a = +prompt("Введите первое число");
-  b = +prompt("Введите второе число");
-  console.log(a - b);
-}
-subtract();
+// function subtract(a, b){
+//   a = +prompt("Введите первое число");
+//   b = +prompt("Введите второе число");
+//   console.log(a - b);
+// }
+// subtract();
 
 
-function multiplication(a, b){
-  a = +prompt("Введите первое число");
-  b = +prompt("Введите второе число");
-  console.log(a * b);
-}
-multiplication();
+// function multiplication(a, b){
+//   a = +prompt("Введите первое число");
+//   b = +prompt("Введите второе число");
+//   console.log(a * b);
+// }
+// multiplication();
 
 
-function division(a, b){
-  a = +prompt("Введите первое число");
-  b = +prompt("Введите второе число");
-  console.log(a / b);
-}
-division();
+// function division(a, b){
+//   a = +prompt("Введите первое число");
+//   b = +prompt("Введите второе число");
+//   console.log(a / b);
+// }
+// division();
 
 
-function multiplication(a, b){
-  a = +prompt("Введите первое число");
-  b = +prompt("Введите второе число");
-  console.log(a ** b);
-}
-multiplication();
+// function multiplication(a, b){
+//   a = +prompt("Введите первое число");
+//   b = +prompt("Введите второе число");
+//   console.log(a ** b);
+// }
+// multiplication();
 
 
 
@@ -194,4 +194,3 @@ multiplication();
 //         console.log('Неверный пороль');
 
 // }
-  
